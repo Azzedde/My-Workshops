@@ -51,6 +51,6 @@ Organized by the IT Community Club, this workshop delved into:
 
 ![Mastering MLOps Image](images/mlops.jpeg)
 
-[Go to Mastering MLOps Folder](./MLOps%20Workshop)
+[Go to The Next Step after ML: MLOps](./MLOps%20Workshop)
 
 ---
