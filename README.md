@@ -21,7 +21,7 @@ Held at ENSAA (Ecole Nationale Algérienne des Affaires) as part of the Techup E
 - Key concepts: Bias, Invariance, Overfitting, and Underfitting
 - Challenges of unclean data and solutions
 
-![Hands-On Machine Learning Image](images/ensaa_workshop.jpg)
+![Hands-On Machine Learning Image](images/ml_workshop.jpeg)
 
 [Go to Hands-On Machine Learning Folder](./Hands-On%20Machine%20Learning)
 
@@ -34,7 +34,7 @@ Presented at the AI Fest by the GDSC ENSIA Club. This workshop emphasized:
 - Real-world applications and case studies
 - Engaging Q&A sessions with participants
 
-![Beyond Labels: Unsupervised Learning Image](images/ensia_workshop.jpg)
+![Beyond Labels: Unsupervised Learning Image](images/unsupervised_workshop.jpeg)
 
 [Go to Beyond Labels: Unsupervised Learning Folder](./Beyond%20Labels%20Unsupervised%20Learning)
 
@@ -49,7 +49,7 @@ Organized by the IT Community Club, this workshop delved into:
 - Monitoring using Prometheus and Grafana
 - CI/CD workflows with GitHub actions
 
-![Mastering MLOps Image](images/mlops.jpg)
+![Mastering MLOps Image](images/mlops.jpeg)
 
 [Go to Mastering MLOps Folder](./Mastering%20MLOps)
 
