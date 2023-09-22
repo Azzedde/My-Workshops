@@ -1,5 +1,5 @@
 
-# My Workshops Repository
+# Workshops Repository
 
 Welcome to the repository where I save content and slides of the workshops I've conducted so far. Explore the content and dive deeper into each topic presented, please contact me for any error you have spotted, amelioration you want to see and topics you want to discuss.
 
