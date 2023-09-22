@@ -23,7 +23,7 @@ Held at ENSAA (Ecole Nationale Algérienne des Affaires) as part of the Techup E
 
 ![Hands-On Machine Learning Image](images/ml_workshop.jpeg)
 
-[Go to Hands-On Machine Learning Folder](./Hands-On%20Machine%20Learning)
+[Go to Hands-On Machine Learning Folder](./Introduction%20to%20Machine%20Learning%20Workshop)
 
 ---
 
