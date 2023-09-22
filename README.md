@@ -36,7 +36,7 @@ Presented at the AI Fest by the GDSC ENSIA Club. This workshop emphasized:
 
 ![Beyond Labels: Unsupervised Learning Image](images/unsupervised_workshop.jpeg)
 
-[Go to Beyond Labels: Unsupervised Learning Folder](./Beyond%20Labels%20Unsupervised%20Learning)
+[Go to Beyond Labels: Unsupervised Learning Folder](./Unsupervised%20Learning%20Workshop)
 
 ---
 
