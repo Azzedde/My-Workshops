@@ -8,7 +8,7 @@ Welcome to the repository where I save content and slides of the workshops I've 
 ## Contents
 1. [Hands-On Machine Learning](#hands-on-machine-learning)
 2. [Beyond Labels: Unsupervised Learning](#beyond-labels-unsupervised-learning)
-3. [The Next step after ML: MLOps](#next-step-after-ml-mlops)
+3. [The Next step after ML: MLOps](#the-next-step-after-ml-mlops)
 
 ---
 
