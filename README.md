@@ -54,3 +54,17 @@ Organized by the IT Community Club, this workshop delved into:
 [Go to The Next Step after ML: MLOps](./MLOps%20Workshop)
 
 ---
+
+### Building GPT from scratch (a smaller version)
+
+Organized by my club School of AI Algiers and in collaboration with Mr. Abdelghani Kabor, this workshop delved into:
+- What are LLMs ? How are they used today ? How companies will embrace them ? What are the problems of LLMs ?
+- The "not yet" perspective of LLMs and the need of scaling to emmerge new tasks for neural networks to perform.
+- What is GPT exactly and why is it so powerful ?
+- A small dive into the Transformer architecture and its components.
+- Building a small GPT version that performs text generation character by character. (Inspired by [this video](https://youtu.be/kCc8FmEb1nY?si=psXPE9kV3f-VyffC)
+
+![Build GPT from scratch](images/build-gpt.jpeg)
+
+[Go to Building GPT from scratch](./Build-gpt-from-scratch)
+
