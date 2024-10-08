@@ -57,7 +57,7 @@ Organized by the IT Community Club, this workshop delved into:
 
 ### Building GPT from scratch (a smaller version)
 
-Organized by my club School of AI Algiers and in collaboration with Mr. Abdelghani Kabor, this workshop delved into:
+Organized by my club School of AI Algiers and in collaboration with Mr. Abdelghani Kabot, this workshop delved into:
 - What are LLMs ? How are they used today ? How companies will embrace them ? What are the problems of LLMs ?
 - The "not yet" perspective of LLMs and the need of scaling to emmerge new tasks for neural networks to perform.
 - What is GPT exactly and why is it so powerful ?
@@ -67,4 +67,17 @@ Organized by my club School of AI Algiers and in collaboration with Mr. Abdelgha
 ![Build GPT from scratch](images/build-gpt.jpeg)
 
 [Go to Building GPT from scratch](./Build-gpt-from-scratch)
+
+---
+
+### LLMs from an engineering POV
+
+Organized online by CSE Algiers (Club Scientifique de l'ESI), I delved into:
+- Fundamentals of Large language models
+- 3 use cases of LLMs realized by big companies (google, nvidia and amazon)
+- Chains, agents and tools
+- LLM-based apps design patterns
+- LLMOps
+![A slide about LLMOps in my presentation](images/llm_engineer_pov.png)
+[Go to LLMs from an engineering POV](./LLMs-engineering-pov)
 
