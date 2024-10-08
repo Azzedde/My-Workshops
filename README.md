@@ -79,5 +79,5 @@ Organized online by CSE Algiers (Club Scientifique de l'ESI), I delved into:
 - LLM-based apps design patterns
 - LLMOps
 ![A slide about LLMOps in my presentation](images/llm_engineer_pov.png)
-[Go to LLMs from an engineering POV](./LLMs-engineering-pov)
+[Go to LLMs from an engineering POV](./LLMs-engineer-POV)
 
