@@ -81,3 +81,16 @@ Organized online by CSE Algiers (Club Scientifique de l'ESI), I delved into:
 ![A slide about LLMOps in my presentation](images/llm_engineer_pov.png)
 [Go to LLMs from an engineering POV](./LLMs-engineer-POV)
 
+---
+
+### Attention mechanism and Transformers architecture (in Darija)
+
+Organized by my club School of AI, in this video I explored:
+
+- The limitations of LSTMs in capturing long sequences and the need for attention mechanisms.
+- An introduction to word embeddings and their role in representing word meanings as vectors.
+- How the attention mechanism works and why it provides better context management.
+- The step-by-step solution involving embeddings, encoder-decoder architecture, and transformers.
+- A dive into the Transformer architecture, highlighting the benefits of parallel processing for sequence tasks.
+![Attention mechanism and Transformers architecture](images/attention-darija.png)
+[Go to Attention mechanism and Transformers architecture (in darija)][./Attention-mechanism-transformers-darija)
