@@ -93,4 +93,4 @@ Organized by my club School of AI, in this video I explored:
 - The step-by-step solution involving embeddings, encoder-decoder architecture, and transformers.
 - A dive into the Transformer architecture, highlighting the benefits of parallel processing for sequence tasks.
 ![Attention mechanism and Transformers architecture](images/attention-darija.png)
-[Go to Attention mechanism and Transformers architecture (in darija)][./Attention-mechanism-transformers-darija)
+[Go to Attention mechanism and Transformers architecture (in darija)](./Attention-mechanism-transformers-darija)
