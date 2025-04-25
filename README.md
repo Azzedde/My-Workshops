@@ -94,3 +94,15 @@ Organized by my club School of AI, in this video I explored:
 - A dive into the Transformer architecture, highlighting the benefits of parallel processing for sequence tasks.
 ![Attention mechanism and Transformers architecture](images/attention-darija.png)
 [Go to Attention mechanism and Transformers architecture (in darija)](./Attention-mechanism-transformers-darija)
+
+---
+
+### Efficiently using LLMs and securing them with Guardrails
+
+Organized by my club School of AI during AI Summit 2025 and the video is on youtube on this ![link](https://www.youtube.com/live/GU-vhQFXEVM?si=2f1aLZGSbOu15Xo7)
+- The importance of efficiency and security when using large language models in applications.
+- Techniques to use LLMs effectively, including avoiding costly calls and applying efficient methods like TF-IDF.
+- Introduction to guardrails for securing LLMs, with examples of validating inputs and outputs to prevent manipulation.
+- Recommendations for choosing the right LLM based on benchmarks, private data needs, and whether fine-tuning or agentic workflows are required.
+![1744536705419](https://github.com/user-attachments/assets/4b346cd3-744b-4cf6-86a3-d7da78560caf)
+
