@@ -99,7 +99,7 @@ Organized by my club School of AI, in this video I explored:
 
 ### Efficiently using LLMs and securing them with Guardrails
 
-Organized by my club School of AI during AI Summit 2025 and the video is on youtube on this ![link](https://www.youtube.com/live/GU-vhQFXEVM?si=2f1aLZGSbOu15Xo7)
+Organized by my club School of AI during AI Summit 2025 and the video is on youtube on this [link](https://www.youtube.com/live/GU-vhQFXEVM?si=2f1aLZGSbOu15Xo7)
 - The importance of efficiency and security when using large language models in applications.
 - Techniques to use LLMs effectively, including avoiding costly calls and applying efficient methods like TF-IDF.
 - Introduction to guardrails for securing LLMs, with examples of validating inputs and outputs to prevent manipulation.
